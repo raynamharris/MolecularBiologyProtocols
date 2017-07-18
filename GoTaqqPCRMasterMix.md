@@ -15,7 +15,7 @@
 - [ ] Add the above reagents in the order specified. Vortex briefly and spin.
 - [ ] Obtain a qPCR plate (e.g. MicroAmp Fast Optical 96-Well Reaction Plate).
 - [ ] Pipette the volume for 1 reaction into 1 well of the qPCR plate. 
-- [ ] Add the appropriate volumn of template (e.g working solution of cDNA) to the appropriate well.
+- [ ] Add the appropriate volume of template (e.g working solution of cDNA) to the appropriate well.
 - [ ] Seal the plate with the MicroAmp Optical Adhesive film.
 - [ ] Go to the 3rd Floor of Loeb.
 - [ ] Spin the plate in a centrifuge built for plates.
