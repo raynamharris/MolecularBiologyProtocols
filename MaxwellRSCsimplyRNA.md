@@ -1,7 +1,7 @@
 # [Maxwell® RSC simplyRNA Tissue Kit](https://www.promega.com/~/media/files/resources/protocols/technical%20manuals/101/maxwell%20rsc%20simplyrna%20cells%20kit%20and%20maxwell%20rsc%20simplyrna%20tissue%20kit%20technical%20manual.pdf)
 
 ## Cartridge and Sample Prep
-- [ ] Identify samples to be processed.
+- [ ] Identify your samples to be processed.
 - [ ] Clean work station & obtain and ice bucket
 - [ ] Remove DNAase from -20°C and thaw on ice
 - [ ] Remove samples from -80°C and thaw on ice.
