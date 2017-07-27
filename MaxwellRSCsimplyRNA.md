@@ -1,4 +1,4 @@
-# [Maxwell® RSC simplyRNA Tissue Kit](https://www.promega.com/~/media/files/resources/protocols/technical%20manuals/101/maxwell%20rsc%20simplyrna%20cells%20kit%20and%20maxwell%20rsc%20simplyrna%20tissue%20kit%20technical%20manual.pdf)
+# Maxwell® RSC simplyRNA Tissue Kit
 
 ## Cartridge and Sample Prep
 - [ ] Identify your samples to be processed.
