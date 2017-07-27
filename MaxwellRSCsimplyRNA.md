@@ -11,7 +11,7 @@
 - [ ] Place a Maxwell® CSC/RSC Plunger in the well closest to the Elution Tube (well #8).
 - [ ] Place 0.5mL Elution Tubes in the front of the deck tray. Add 40μl of Nuclease-Free Water to the bottom of each Elution Tube.
 - [ ] Add 5μl of blue DNase I Solution to well #4 (yellow reagent). 
-- [ ] Add 200μl of Lysis Buffer to the thawed punch sample. Vortex vigorously for 15 seconds to mix. Transfer all 400μl of lysate to the well farthest from the elution tube (well #8).
+- [ ] Add 200μl of Lysis Buffer to the thawed punch sample. Vortex vigorously for 15 seconds to mix. Transfer all 400μl of lysate to well #1.
 
 ## Running the Maxwell
 - [ ] Turn on the Maxwell® RSC Instrument and Tablet PC.
