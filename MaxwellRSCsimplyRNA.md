@@ -23,7 +23,7 @@
 - [ ] Touch "Proceed" then "okay" and the door will open.
 - [ ] Confirm that all checklist items have been performed. 
 - [ ] Transfer the deck tray with prepared cartridges onto the platform. It should "click" into place.
-- [ ] Verify that samples were added to well #1, Elution Tubes have 30μl of Nuclease-Free Water and the caps are open, the Plungers are in well #8., and  #4 is green.
+- [ ] Verify that samples were added to well #1, Elution Tubes have 40μl of Nuclease-Free Water and the caps are open, the Plungers are in well #8., and  #4 is green.
 - [ ] Touch the Start button to begin the extraction run. The platform will retract, and the door will close.
 
 ## After the Maxwell Run Completes
